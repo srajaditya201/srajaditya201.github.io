@@ -1,0 +1,4 @@
+Flask==3.0.3
+selenium==4.20.0
+pandas==2.2.2
+gunicorn==21.2.0
